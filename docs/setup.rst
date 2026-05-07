@@ -1,2 +1,2 @@
-microsoft 365 setup to activate
+setup to activate
 ===============================
